@@ -1,0 +1,1 @@
+This is a student project, for client-server synchronious salary system
